@@ -43,7 +43,7 @@ session_start();
 	 <div class="bg">
 	 		<br><br><br>
 	 	
-	 		<h1 style="color:white;">  Welcome to Web Tech World!</h1> <br>
+	 		<h1 style="color:white;">  Welcome to Web Tech World! I am Arif</h1> <br>
 
 			 <h1 style="color:white;"> Hello, <?php echo $user_data['user_name']; ?></h1> <br> <br>
 
